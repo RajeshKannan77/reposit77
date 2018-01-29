@@ -8,6 +8,9 @@ public class Get2 {
 		x.add(20);
 		x.add(50);
 		x.add(56);
+		x.add(76);
+		x.add(86);
+
 		int y=(int) x.get(1);
 		System.out.println(y);
 		
