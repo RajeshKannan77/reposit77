@@ -10,6 +10,7 @@ public class Get2 {
 		x.add(56);
 		int y=(int) x.get(1);
 		System.out.println(y);
+		System.out.println("end");
 		
 	}
 
